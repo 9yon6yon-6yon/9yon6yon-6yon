@@ -15,7 +15,7 @@
 
 </div>
 
-<h4 align="center" behaviour="blink">👀__Visitor's count__👀</h4>
+<h4 align="center">__Visitor's count__</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{9yon6yon-6yon}/count.svg" alt="9yon6yon-6yon :: Visitor's Count" /></p>
 
