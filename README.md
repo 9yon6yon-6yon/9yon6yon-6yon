@@ -22,4 +22,4 @@
 
 
 
- <div align="right"> 🚧 Profile is Under Construction 🚧</div>
+ <marquee><div align="right"> 🚧 Profile is Under Construction 🚧</div></marquee>
