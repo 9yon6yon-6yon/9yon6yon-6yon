@@ -6,14 +6,6 @@
 
 
 
-<div align = "center">
-  <hr>
-
-![My_Github Status](https://github-readme-stats.vercel.app/api?username=9yon6yon-6yon&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-  <hr>
-
-
-</div>
 
 <h4 align="center">__Visitor's count__</h4>
 
@@ -56,7 +48,11 @@
 <hr>
 <div align="center">
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9yon6yon-6yon&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9yon6yon-6yon&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9yon6yon-6yon&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9yon6yon-6yon&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9yon6yon-6yon&theme=solarized_dark)
 
 
 
