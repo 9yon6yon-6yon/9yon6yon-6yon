@@ -1,6 +1,7 @@
 
-
-<img src="https://3v14en34n4qsadzlwpatrq14-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/woodland_wanderer_dribbble.gif"  align="center">
+<div align="center">
+<img src="https://3v14en34n4qsadzlwpatrq14-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/woodland_wanderer_dribbble.gif">
+</div>
 
 ## 👋 Hi, I’m [9yon6yon-6yon](https://github.com/9yon6yon-6yon/) 
 
