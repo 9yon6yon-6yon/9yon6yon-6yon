@@ -59,13 +59,14 @@
 
 </div>
 
-<p align="center">
+<div align="center">
 
 
-<a href="https://twitter.com/9yon6yon" target="blank"><img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=9yon6yon&layout=wide&show_reply=off&show_retweet=off"/></a>
+<a href="https://twitter.com/9yon6yon" target="blank">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=9yon6yon&layout=wide&show_reply=off&show_retweet=off"/>
+</a>
 
-
-</p>
+</div>
 
 <hr>
  <div align="right">🚧 Profile is Under Construction 🚧</div>
