@@ -68,6 +68,10 @@
 </a>
 
 </div>
-
+<div align="right">
+ <img src="https://media.tenor.com/images/838c313a22812b69ba1ba34eeabf8604/tenor.gif">
+ 
+ ### Thank you for visiting
+ </div>
 <hr>
  <div align="right">🚧 Profile is Under Construction 🚧</div>
