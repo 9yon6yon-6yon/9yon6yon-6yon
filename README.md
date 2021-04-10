@@ -58,12 +58,12 @@
 
 
 </div>
+
 <p align="center">
 
 
-<a href="https://twitter.com/9yon6yon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="9yon6yon" height="30" width="40" /></a>
+<a href="https://twitter.com/9yon6yon" target="blank"><img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=9yon6yon&layout=wide&show_reply=off&show_retweet=off"/></a>
 
-<a href="/http://fetchrss.com/rss/60716fb0a213ba553b7ebc9360716fc3aa92883062672d62.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://fetchrss.com/rss/60716fb0a213ba553b7ebc9360716fc3aa92883062672d62.xml" height="30" width="40" /></a>
 
 </p>
 
