@@ -16,6 +16,8 @@
 <h2 align="center">
  Technology and Language</h2>
 
+
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -36,17 +38,13 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+<hr>
+<div align="center">
 
+## Development Tool
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" weight="30" height="30"/>
 
-
-
-
-
-
-
-
-
-
+</div>
 <hr>
 <div align="center">
 
@@ -56,13 +54,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9yon6yon-6yon&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9yon6yon-6yon&theme=solarized_dark)
 
-
-
 </div>
 <div align ="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9yon6yon/b642fa64-ac6a-45b5-bed6-167a27ca1c70.png" width="450px" /></a>
 </div>
-
 <hr>
 <div align="center">
  
