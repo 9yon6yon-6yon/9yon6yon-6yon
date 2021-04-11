@@ -56,7 +56,7 @@
 
 </div>
 <div align ="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9yon6yon/b642fa64-ac6a-45b5-bed6-167a27ca1c70.png" width="450px" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9yon6yon/b642fa64-ac6a-45b5-bed6-167a27ca1c70.png" width="550" /></a>
 </div>
 <hr>
 <div align="center">
