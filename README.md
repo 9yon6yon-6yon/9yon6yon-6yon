@@ -59,16 +59,7 @@
 
 
 </div>
-<hr>
 
-
-<div align="center">
-	
-
-![Md Asif Karim Chayon's wakatime status](https://github-readme-stats.vercel.app/api/wakatime?username=9yon6yon&layout=compact&theme=solarized_dark)
-
-
-</div>
 
 <hr>
 <div align="center">
