@@ -55,9 +55,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9yon6yon-6yon&theme=solarized_dark)
 
 </div>
-<div align ="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9yon6yon/755fa109-d972-48b0-b9b4-3ef33bae7bff.png" /></a>
-</div>
+
 <hr>
 <div align="center">
  
