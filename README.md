@@ -57,13 +57,13 @@
 </div>
 
 <hr>
-<div align="center">
+<!-- <div align="center">
  
 
 <a href="https://twitter.com/9yon6yon" target="blank">
 <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=9yon6yon&layout=wide&show_reply=off&show_retweet=off"/>
 </a>
-
+ -->
 </div>
 <div align="right">
  <img src="https://media.tenor.com/images/838c313a22812b69ba1ba34eeabf8604/tenor.gif">
