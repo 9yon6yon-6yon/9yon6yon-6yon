@@ -1,6 +1,7 @@
 
 <div align="center">
-<img src="https://3v14en34n4qsadzlwpatrq14-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/woodland_wanderer_dribbble.gif" width="500px" hight"1600px">
+ <img src="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/241804510_1359846731099870_6454307627895578969_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=bLvko0A2GAEAX-n1BiK&_nc_ht=scontent.fdac99-1.fna&oh=40fd64774e8ef3784d9c028bb7e43b4e&oe=6192A3DE" width="500px" hight"1600px">
+</div>
 </div>
 
 ## 👋 Hi, I’m [9yon6yon-6yon](https://github.com/9yon6yon-6yon/) 
@@ -42,7 +43,7 @@
 <div align="center">
 
 ## Development Tool
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" weight="30" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" weight="30" height="30"/></br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" weight="35" height="35"/>
 
 </div>
 <hr>
