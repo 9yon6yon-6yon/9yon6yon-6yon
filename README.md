@@ -1,8 +1,6 @@
 
-<div align="center">
- <img src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/226275895_1326921144392429_2198505884837455193_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGi0ku382O98BdeFuM41YJeH96iG4X0bsgf3qIbhfRuyIt9HH_WxQXDUljGWYm5ViMdG-Tb3zheWa_oXq-Qljn6&_nc_ohc=IXPvLzraYqYAX9exOwB&_nc_ht=scontent.fdac14-1.fna&oh=00_AT9BiPsMELz5FYHiwN9tyfA86CxqBxFc5a8IFkIuLd0Wsw&oe=6205004A" width="500px" hight"1600px">
-</div>
-</div>
+
+ 
 
 ## 👋 Hi, I’m [9yon6yon-6yon](https://github.com/9yon6yon-6yon/) 
 
